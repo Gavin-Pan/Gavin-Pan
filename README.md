@@ -6,6 +6,8 @@
 - ⚡ [DNN Fraud Detection Platform](https://github.com/Gavin-Pan/DNN_Fraud_Detection)
 
 - ⚡ [Nyom Nyom](https://nyomnyom.streamlit.app/)
+  
+- ⚡ [ForeverBody](https://github.com/Gavin-Pan/ForeverBody)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
