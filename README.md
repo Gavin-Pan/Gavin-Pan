@@ -3,9 +3,9 @@
   📊 Passionate about turning data into insights and driving social impact through technology 
   💡 I love solving real-world problems and building tools that make a difference</h3>
 
-- ⚡ [DNN Fraud Detection Platform](https://github.com/Gavin-Pan/DNN_Fraud_Detection)
-
 - ⚡ [Nyom Nyom](https://nyomnyom.streamlit.app/)
+
+- ⚡ [DNN Fraud Detection Platform](https://github.com/Gavin-Pan/DNN_Fraud_Detection)
   
 - ⚡ [ForeverBody](https://github.com/Gavin-Pan/ForeverBody)
 
