@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Gavin Pan</h1>
-<h3 align="center">🎓 Computer Science student at Monash University, specialising in Data Science 
+<h3 align="center">🎓 Computer Science graduate from Monash University, specialising in Data Science 
   📊 Passionate about turning data into insights and driving social impact through technology 
   💡 I love solving real-world problems and building tools that make a difference</h3>
 
