@@ -3,7 +3,7 @@
   📊 Passionate about turning data into insights and driving social impact through technology 
   💡 I love solving real-world problems and building tools that make a difference</h3>
 
-- ⚡ [Nyom Nyom](https://nyomnyom.streamlit.app/)
+- ⚡ [Nyom Nyom](https://github.com/yiqianeee/NyomNyom?tab=readme-ov-file)
 
 - ⚡ [DNN Fraud Detection Platform](https://github.com/Gavin-Pan/DNN_Fraud_Detection)
   
