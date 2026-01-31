@@ -2,6 +2,7 @@
 <h3 align="center">🎓 Computer Science graduate from Monash University, specialising in Data Science 
   📊 Passionate about turning data into insights and driving social impact through technology 
   💡 I love solving real-world problems and building tools that make a difference</h3>
+- ⚡ [Loan Approval Predictor](https://loan-approval-predictor-lemon.vercel.app/?_vercel_share=En8YnZG0FXSiKzN4vnEVdkGSDk2zet57)
 
 - ⚡ [Twitch Analytics Dashboard - 'Your Shot'](https://public.tableau.com/app/profile/gavin.pan1667/viz/FIT3179-A1_17566474043590/Twitch)
 
